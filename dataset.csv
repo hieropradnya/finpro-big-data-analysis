@@ -1,0 +1,683 @@
+tanggal_transaksi,nama_pelanggan,nama_produk,jenis_produk,kategori_produk,kuantitas,harga_jual,total
+01/11/2024,Nadya,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+01/11/2024,Citra,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+01/11/2024,Wawan,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+01/11/2024,Andi,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+01/11/2024,Sri,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+01/11/2024,Tono,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+01/11/2024,Lia,Indomie Baso Sapi,mie-kuah,makanan,1,9000,9000
+01/11/2024,Rina,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+01/11/2024,Tika,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+01/11/2024,Dian,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+01/11/2024,Indra,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+01/11/2024,Rita,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+01/11/2024,Agus,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+01/11/2024,Dewi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+01/11/2024,Yuli,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+01/11/2024,Rafqi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+01/11/2024,Sari,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+01/11/2024,Wira,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+01/11/2024,Rico,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+01/11/2024,Dimas,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+01/11/2024,Mira,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+01/11/2024,Siti,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+01/11/2024,Rico,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+01/11/2024,Bagus,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+01/11/2024,Toni,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+02/11/2024,Dimas,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+02/11/2024,Aryo,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+02/11/2024,Sari,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+02/11/2024,Ilham,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+02/11/2024,Wawan,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+02/11/2024,Wira,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+02/11/2024,Aldi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+02/11/2024,Oki,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+02/11/2024,Nur,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+02/11/2024,Aryo,Indomie Goreng Rendang,mie-goreng,makanan,1,9000,9000
+02/11/2024,Reza,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+02/11/2024,Rani,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+02/11/2024,Mira,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+02/11/2024,Tika,Indomie Goreng Rendang,mie-goreng,makanan,3,9000,27000
+02/11/2024,Nisa,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+02/11/2024,Agus,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+02/11/2024,Novi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+02/11/2024,Tono,indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+02/11/2024,Rani,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+02/11/2024,Zarif,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+02/11/2024,Vina,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+02/11/2024,Putri,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+02/11/2024,Hendri,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+02/11/2024,Lily,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+02/11/2024,Doni,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+02/11/2024,Bayu,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+02/11/2024,Andi,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+02/11/2024,Putra,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+02/11/2024,Laila,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+02/11/2024,Lia,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+02/11/2024,Elly,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+02/11/2024,Rudi,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+02/11/2024,Toni,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+02/11/2024,Citra,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+02/11/2024,Rendi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+02/11/2024,Sari,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+02/11/2024,Citra,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+02/11/2024,Gery,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+02/11/2024,Andi,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+02/11/2024,Aulia,Indomie Goreng Rendang,mie-goreng,makanan,3,9000,27000
+02/11/2024,Angel,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+02/11/2024,Theo,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+02/11/2024,Nando,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+02/11/2024,Ria,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+02/11/2024,Mira,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+02/11/2024,Aryo,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+02/11/2024,Adi,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+02/11/2024,Cahaya,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+02/11/2024,Bayu,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+02/11/2024,Rendi,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+02/11/2024,Yuli,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+02/11/2024,Tika,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+02/11/2024,Nando,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+03/11/2024,Firman,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+03/11/2024,Cantika,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+03/11/2024,Firman,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+03/11/2024,Leo,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+03/11/2024,Putra,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+03/11/2024,Firman,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+03/11/2024,Agung,Indomie Soto Mie,mie-kuah,makanan,1,9000,9000
+03/11/2024,Mirza,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+03/11/2024,Rina,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+03/11/2024,Doni,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+03/11/2024,Adit,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+03/11/2024,Rey,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+03/11/2024,Renata,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+03/11/2024,Toni,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+03/11/2024,Rafqi,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+03/11/2024,Bima,Indomie Baso Sapi,mie-kuah,makanan,1,9000,9000
+03/11/2024,Tono,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+03/11/2024,Doni,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+03/11/2024,Vinsen,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+03/11/2024,Rudi,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+03/11/2024,Adi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+03/11/2024,Agung,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+03/11/2024,Roni,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+03/11/2024,Nur,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+03/11/2024,Neila,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+03/11/2024,Bagus,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+03/11/2024,Wahyu,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+03/11/2024,Prima,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+03/11/2024,Dian,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+03/11/2024,Wira,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+03/11/2024,Elly,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+03/11/2024,Dinda,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+03/11/2024,Tika,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+03/11/2024,Lia,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+03/11/2024,Hendra,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+05/11/2024,Oki,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+05/11/2024,Rani,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+05/11/2024,Putri,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+05/11/2024,Dika,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+05/11/2024,Indra,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+05/11/2024,Firman,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+05/11/2024,Roni,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+05/11/2024,Mirna,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+05/11/2024,Rita,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+05/11/2024,Andi,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+05/11/2024,Adi,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+05/11/2024,Misel,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+05/11/2024,Rudi,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+05/11/2024,Wawan,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+05/11/2024,Doni,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+05/11/2024,Andi,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+05/11/2024,Andi,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+05/11/2024,Toni,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+05/11/2024,Ria,Indomie Goreng Rendang,mie-goreng,makanan,3,9000,27000
+05/11/2024,Laila,Indomie Goreng Rendang,mie-goreng,makanan,3,9000,27000
+06/11/2024,Agus,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+06/11/2024,Haikal,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+06/11/2024,Wawan,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+06/11/2024,Vero,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+06/11/2024,Galih,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+06/11/2024,Hendra,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+06/11/2024,Theo,Indomie Soto Mie,mie-kuah,makanan,1,9000,9000
+06/11/2024,Mirza,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+06/11/2024,Dodi,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+06/11/2024,Nando,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+06/11/2024,Mira,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+06/11/2024,Citra,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+06/11/2024,Boni,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+06/11/2024,Doni,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+06/11/2024,Surya,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+06/11/2024,Surya,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+06/11/2024,Laila,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+06/11/2024,Novi,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+06/11/2024,Roni,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+06/11/2024,Sasa,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+06/11/2024,Nando,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+06/11/2024,Tono,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+06/11/2024,Indah,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+06/11/2024,Reza,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+06/11/2024,Siti,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+06/11/2024,Rendi,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+06/11/2024,Roni,indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+06/11/2024,Nando,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+06/11/2024,Gania,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+06/11/2024,Sasa,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+07/11/2024,Elly,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+07/11/2024,Irma,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+07/11/2024,Cahaya,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+07/11/2024,Rendra,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+07/11/2024,Agus,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+07/11/2024,Nisa,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+07/11/2024,Reza,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+07/11/2024,Rudi,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+07/11/2024,Rey,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+07/11/2024,Bayu,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+07/11/2024,Mirza,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+07/11/2024,Dewi,Indomie Goreng Rendang,mie-goreng,makanan,1,9000,9000
+07/11/2024,Sri,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+07/11/2024,Dimas,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+07/11/2024,Rani,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+07/11/2024,Irma,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+07/11/2024,Doni,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+07/11/2024,Lily,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+07/11/2024,Roni,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+07/11/2024,Vio,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+07/11/2024,Nadya,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+07/11/2024,Adit,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+07/11/2024,Aldi,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+07/11/2024,Prima,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+07/11/2024,Reza,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+07/11/2024,Gery,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+07/11/2024,Sasa,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+07/11/2024,Gery,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+07/11/2024,Boni,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+07/11/2024,Mirna,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+07/11/2024,Putra,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+07/11/2024,Putri,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+07/11/2024,Dimas,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+07/11/2024,Doni,Indomie Soto Mie,mie-kuah,makanan,3,9000,27000
+07/11/2024,Lia,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+07/11/2024,Yuli,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+07/11/2024,Dewi,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+07/11/2024,Surya,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+07/11/2024,Ria,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+07/11/2024,Budi,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+07/11/2024,Wahyu,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+07/11/2024,Rafqi,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+07/11/2024,Ria,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+07/11/2024,Adi,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+08/11/2024,Indah,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+08/11/2024,Ilham,indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+08/11/2024,Mirza,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+08/11/2024,Andi,indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+08/11/2024,Dimas,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+08/11/2024,Agung,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+08/11/2024,Andi,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+08/11/2024,Lia,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+08/11/2024,Dimas,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+08/11/2024,Galih,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+08/11/2024,Bayu,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+08/11/2024,Aulia,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+08/11/2024,Agus,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+08/11/2024,Mira,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+08/11/2024,Doni,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+08/11/2024,Oki,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+08/11/2024,Reza,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+08/11/2024,Sri,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+08/11/2024,Mirza,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+08/11/2024,Yuli,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+08/11/2024,Indah,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+08/11/2024,Ilham,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+09/11/2024,Hendri,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+09/11/2024,Rico,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+09/11/2024,Rudi,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+09/11/2024,Nadya,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+09/11/2024,Nur,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+09/11/2024,Reza,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+09/11/2024,Zoe,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+09/11/2024,Gery,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+09/11/2024,Adi,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+09/11/2024,Aldi,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+09/11/2024,Nur,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+09/11/2024,Sari,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+09/11/2024,Rico,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+09/11/2024,Leo,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+09/11/2024,Tono,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+09/11/2024,Nur,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+09/11/2024,Ria,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+09/11/2024,Dika,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+09/11/2024,Putri,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+09/11/2024,Hendra,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+09/11/2024,Neila,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+09/11/2024,Neila,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+09/11/2024,Tika,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+09/11/2024,Firman,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+09/11/2024,Nanda,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+10/11/2024,Agung,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+10/11/2024,Tono,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+10/11/2024,Zoe,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+10/11/2024,Nando,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+10/11/2024,Surya,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+10/11/2024,Hendra,indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+10/11/2024,Wahyu,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+10/11/2024,Lia,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+10/11/2024,Angel,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+10/11/2024,Renata,Indomie Goreng Rendang,mie-goreng,makanan,1,9000,9000
+10/11/2024,Haikal,Indomie Soto Mie,mie-kuah,makanan,3,9000,27000
+10/11/2024,Bima,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+10/11/2024,Ilham,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+10/11/2024,Hendri,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+10/11/2024,Dimas,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+10/11/2024,Irma,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+10/11/2024,Vinsen,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+10/11/2024,Firman,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+10/11/2024,Vinsen,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+10/11/2024,Agung,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+10/11/2024,Nadya,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+12/11/2024,Zarif,Indomie Goreng Rendang,mie-goreng,makanan,3,9000,27000
+12/11/2024,Wildan,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+12/11/2024,Rina,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+12/11/2024,Roni,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+12/11/2024,Surya,Indomie Soto Mie,mie-kuah,makanan,3,9000,27000
+12/11/2024,Nanda,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+12/11/2024,Prima,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+12/11/2024,Hendra,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+12/11/2024,Rafqi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+12/11/2024,Firman,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+12/11/2024,Elly,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+12/11/2024,Aldi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+12/11/2024,Roni,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+12/11/2024,Hendra,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+12/11/2024,Tono,Indomie Soto Mie,mie-kuah,makanan,1,9000,9000
+12/11/2024,Vio,Indomie Goreng Rendang,mie-goreng,makanan,3,9000,27000
+12/11/2024,Andi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+12/11/2024,Leo,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+12/11/2024,Adi,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+12/11/2024,Cantika,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+12/11/2024,Andi,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+12/11/2024,Galih,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+12/11/2024,Oki,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+12/11/2024,Budi,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+13/11/2024,Dinda,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+13/11/2024,Elly,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+13/11/2024,Gania,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+13/11/2024,Rafqi,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+13/11/2024,Rani,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+13/11/2024,Dinda,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+13/11/2024,Sri,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+13/11/2024,Bagus,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+13/11/2024,Elly,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+13/11/2024,Wulan,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+13/11/2024,Tika,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+13/11/2024,Lily,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+13/11/2024,Agung,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+13/11/2024,Rafqi,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+13/11/2024,Mirza,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+13/11/2024,Bagus,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+13/11/2024,Dita,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+13/11/2024,Putri,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+13/11/2024,Nur,Indomie Goreng Rendang,mie-goreng,makanan,1,9000,9000
+13/11/2024,Leo,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+13/11/2024,Wahyu,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+13/11/2024,Tono,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+14/11/2024,Rico,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+14/11/2024,Bagus,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+14/11/2024,Wira,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+14/11/2024,Hana,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+14/11/2024,Yuli,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+14/11/2024,Leo,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+14/11/2024,Nisa,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+14/11/2024,Wildan,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+14/11/2024,Wira,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+14/11/2024,Roni,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+14/11/2024,Prima,Indomie Soto Mie,mie-kuah,makanan,3,9000,27000
+14/11/2024,Nur,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+14/11/2024,Surya,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+14/11/2024,Laila,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+14/11/2024,Tono,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+14/11/2024,Agung,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+14/11/2024,Boni,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+14/11/2024,Ilham,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+14/11/2024,Nisa,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+14/11/2024,Putra,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+14/11/2024,Putra,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+14/11/2024,Dita,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+14/11/2024,Budi,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+14/11/2024,Galih,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+14/11/2024,Aryo,indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+15/11/2024,Leo,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+15/11/2024,Surya,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+15/11/2024,Laila,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+15/11/2024,Dimas,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+15/11/2024,Dimas,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+15/11/2024,Indah,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+15/11/2024,Wulan,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+15/11/2024,Nanda,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+15/11/2024,Roni,Indomie Goreng Rendang,mie-goreng,makanan,1,9000,9000
+15/11/2024,Rendi,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+15/11/2024,Mirna,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+15/11/2024,Roni,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+15/11/2024,Boni,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+15/11/2024,Neila,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+15/11/2024,Dewi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+15/11/2024,Putra,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+15/11/2024,Prima,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+15/11/2024,Ria,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+15/11/2024,Aryo,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+15/11/2024,Nisa,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+15/11/2024,Andi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+15/11/2024,Surya,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+15/11/2024,Doni,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+16/11/2024,Wildan,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+16/11/2024,Rina,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+16/11/2024,Doni,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+16/11/2024,Nadya,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+16/11/2024,Wira,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+16/11/2024,Tono,Indomie Baso Sapi,mie-kuah,makanan,1,9000,9000
+16/11/2024,Wahyu,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+16/11/2024,Vina,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+16/11/2024,Gery,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+16/11/2024,Oki,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+16/11/2024,Toni,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+16/11/2024,Indah,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+16/11/2024,Wahyu,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+16/11/2024,Rendra,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+16/11/2024,Rafqi,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+16/11/2024,Doni,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+16/11/2024,Lia,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+16/11/2024,Vio,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+16/11/2024,Aryo,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+16/11/2024,Nadya,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+17/11/2024,Sasa,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+17/11/2024,Rendi,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+17/11/2024,Rafqi,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+17/11/2024,Vero,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+17/11/2024,Citra,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+17/11/2024,Aulia,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+17/11/2024,Rey,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+17/11/2024,Nur,Indomie Goreng Rendang,mie-goreng,makanan,1,9000,9000
+17/11/2024,Wildan,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+17/11/2024,Agus,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+17/11/2024,Nando,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+17/11/2024,Hana,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+17/11/2024,Rico,Indomie Goreng Rendang,mie-goreng,makanan,2,9000,18000
+17/11/2024,Wahyu,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+17/11/2024,Dimas,Indomie Baso Sapi,mie-kuah,makanan,3,9000,27000
+17/11/2024,Sri,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+17/11/2024,Sasa,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+17/11/2024,Reza,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+17/11/2024,Prima,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+17/11/2024,Vina,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+17/11/2024,Misel,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+17/11/2024,Siti,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+19/11/2024,Rina,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+19/11/2024,Haikal,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+19/11/2024,Sari,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+19/11/2024,Cahaya,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+19/11/2024,Bima,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+19/11/2024,Bima,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+19/11/2024,Vinsen,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+19/11/2024,Wulan,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+19/11/2024,Nadya,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+19/11/2024,Cantika,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+19/11/2024,Nando,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+19/11/2024,Deo,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+19/11/2024,Misel,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+19/11/2024,Toni,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+19/11/2024,Nando,Indomie Soto Mie,mie-kuah,makanan,1,9000,9000
+19/11/2024,Agung,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+19/11/2024,Rudi,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+19/11/2024,Andi,Indomie Soto Mie,mie-kuah,makanan,3,9000,27000
+19/11/2024,Lily,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+19/11/2024,Cahaya,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+19/11/2024,Dika,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+19/11/2024,Siti,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+19/11/2024,Mirna,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+20/11/2024,Roni,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+20/11/2024,Wildan,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+20/11/2024,Theo,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+20/11/2024,Elly,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+20/11/2024,Surya,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+20/11/2024,Vero,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+20/11/2024,Novi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+20/11/2024,Lia,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+20/11/2024,Ilham,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+20/11/2024,Cantika,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+20/11/2024,Mirza,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+20/11/2024,Mark,Indomie Baso Sapi,mie-kuah,makanan,2,9000,18000
+20/11/2024,Bima,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+20/11/2024,Andi,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+20/11/2024,Prima,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+20/11/2024,Adit,Indomie Soto Mie,mie-kuah,makanan,1,9000,9000
+20/11/2024,Irma,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+20/11/2024,Novi,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+20/11/2024,Wira,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+20/11/2024,Siti,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+20/11/2024,Rita,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+21/11/2024,Tika,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+21/11/2024,Indah,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+21/11/2024,Dika,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+21/11/2024,Leo,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+21/11/2024,Indah,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+21/11/2024,Dinda,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+21/11/2024,Dika,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+21/11/2024,Dimas,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+21/11/2024,Mirza,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+21/11/2024,Misel,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+21/11/2024,Mirza,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+21/11/2024,Rafqi,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+21/11/2024,Firman,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+21/11/2024,Toni,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+21/11/2024,Laila,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+21/11/2024,Indah,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+21/11/2024,Siti,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+21/11/2024,Elly,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+21/11/2024,Bima,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+21/11/2024,Bagus,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+21/11/2024,Hana,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+21/11/2024,Prima,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+21/11/2024,Rey,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+21/11/2024,Putra,indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+22/11/2024,Vinsen,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+22/11/2024,Irma,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+22/11/2024,Renata,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+22/11/2024,Leo,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+22/11/2024,Agus,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+22/11/2024,Elly,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+22/11/2024,Rita,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+22/11/2024,Agus,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+22/11/2024,Dewi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+22/11/2024,Vero,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+22/11/2024,Cahaya,indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+22/11/2024,Dika,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+22/11/2024,Sri,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+22/11/2024,Bagus,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+22/11/2024,Rendra,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+22/11/2024,Rafqi,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+22/11/2024,Tono,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+22/11/2024,Lia,Indomie Baso Sapi,mie-kuah,makanan,1,9000,9000
+22/11/2024,Dian,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+22/11/2024,Indra,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+22/11/2024,Oki,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+23/11/2024,Toni,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+23/11/2024,Indah,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+23/11/2024,Sari,Indomie Soto Mie,mie-kuah,makanan,2,9000,18000
+23/11/2024,Wira,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+23/11/2024,Surya,indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+23/11/2024,Laila,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+23/11/2024,Tono,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+23/11/2024,Wulan,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+23/11/2024,Nanda,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+23/11/2024,Rey,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+23/11/2024,Renata,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+23/11/2024,Tika,indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+23/11/2024,Lily,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+23/11/2024,Agung,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+23/11/2024,Rudi,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+23/11/2024,Andi,Indomie Soto Mie,mie-kuah,makanan,3,9000,27000
+23/11/2024,Vinsen,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+23/11/2024,Irma,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+23/11/2024,Renata,indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+23/11/2024,Leo,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+23/11/2024,Agus,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+23/11/2024,Firman,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+24/11/2024,Rita,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+24/11/2024,Dani,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+24/11/2024,Ardi,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+24/11/2024,Joko,Indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+24/11/2024,Rini,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+24/11/2024,Beni,Indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+24/11/2024,Rian,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+24/11/2024,Heri,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+24/11/2024,Susi,Indomie Rasa Empal Gentong,mie-kuah,makanan,1,10000,10000
+24/11/2024,Rama,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+24/11/2024,Fitri,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+24/11/2024,Eka,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+24/11/2024,Dian,Indomie Ayam Spesial,mie-kuah,makanan,3,9000,27000
+24/11/2024,Feri,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+24/11/2024,Nina,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+24/11/2024,Hadi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+24/11/2024,Irvan,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+24/11/2024,Dewi,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+24/11/2024,Rika,Indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+24/11/2024,Gina,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+24/11/2024,Hadi,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+24/11/2024,Didi,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+24/11/2024,Silvi,Indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+26/11/2024,Arman,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+26/11/2024,Jihan,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+26/11/2024,Edo,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+26/11/2024,Sinta,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+26/11/2024,Anggi,Indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+26/11/2024,Fajar,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+26/11/2024,Indri,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+26/11/2024,Tasya,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+26/11/2024,Andra,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+26/11/2024,Tino,Indomie Ayam Spesial,mie-kuah,makanan,1,9000,9000
+26/11/2024,Yuni,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+26/11/2024,Bayu,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+26/11/2024,Rio,Indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+26/11/2024,Linda,Indomie Rasa Soto Padang,mie-kuah,makanan,3,10000,30000
+26/11/2024,Adrian,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+26/11/2024,Nino,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+26/11/2024,Sarah,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+26/11/2024,Roni,Indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+26/11/2024,Fahri,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+26/11/2024,Laura,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+26/11/2024,Ika,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+26/11/2024,Bella,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+27/11/2024,Gilang,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+27/11/2024,Riko,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+27/11/2024,Donny,Indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+27/11/2024,Yana,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+27/11/2024,Evan,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+27/11/2024,Reza,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+27/11/2024,Ari,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+27/11/2024,Cici,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+27/11/2024,Surya,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+27/11/2024,Joko,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+27/11/2024,Asep,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+27/11/2024,Lian,Indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+27/11/2024,Andre,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+27/11/2024,Tika,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+27/11/2024,Sari,Indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+27/11/2024,Vina,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,1,10000,10000
+27/11/2024,Bayu,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+27/11/2024,Fitri,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+27/11/2024,Rida,Indomie Rasa Soto Lamongan,mie-kuah,makanan,2,10000,20000
+27/11/2024,Randy,Indomie Goreng Spesial,mie-goreng,makanan,1,9000,9000
+28/11/2024,Devi,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,1,10000,10000
+28/11/2024,Bagas,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+28/11/2024,Lutfi,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+28/11/2024,Irfan,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+28/11/2024,Shinta,Indomie Goreng Cabe Ijo,mie-goreng,makanan,3,9000,27000
+28/11/2024,Egi,Indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+28/11/2024,Rio,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+28/11/2024,Sinta,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,3,10000,30000
+28/11/2024,Faris,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+28/11/2024,Deni,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+28/11/2024,Nisa,Indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+28/11/2024,Fauzi,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+28/11/2024,Ika,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+28/11/2024,Rina,Indomie Rasa Kari Ayam,mie-kuah,makanan,2,9000,18000
+28/11/2024,Dian,Indomie Goreng Sambal Matah,mie-goreng,makanan,3,9000,27000
+28/11/2024,Fikri,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+28/11/2024,Farhan,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+28/11/2024,Linda,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+28/11/2024,Irfan,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+28/11/2024,Santi,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+28/11/2024,Rudi,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+28/11/2024,Budi,Indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+28/11/2024,Fahmi,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+28/11/2024,Jono,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+28/11/2024,Dea,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+29/11/2024,Lia,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+29/11/2024,Tari,Indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+29/11/2024,Surya,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+29/11/2024,Tino,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+29/11/2024,Ryan,Indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+29/11/2024,Ria,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+29/11/2024,Bimo,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+29/11/2024,Dimas,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+29/11/2024,Siska,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+29/11/2024,Dewi,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+29/11/2024,Fajar,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+29/11/2024,Tasya,Indomie Ayam Bawang,mie-kuah,makanan,3,9000,27000
+29/11/2024,Hana,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+29/11/2024,Gita,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+29/11/2024,Randy,Indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+29/11/2024,Novi,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+29/11/2024,Sari,Indomie Rasa Sop Buntut,mie-kuah,makanan,1,10000,10000
+29/11/2024,Andi,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+29/11/2024,Sinta,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+29/11/2024,Ivan,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+29/11/2024,Deni,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+29/11/2024,Ana,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+30/11/2024,Fery,Indomie Ayam Spesial,mie-kuah,makanan,2,9000,18000
+30/11/2024,Risma,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+30/11/2024,Juna,Indomie Goreng Pedas,mie-goreng,makanan,1,9000,9000
+30/11/2024,Elok,Indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+30/11/2024,Alif,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+30/11/2024,Lisa,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+30/11/2024,Tobi,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+30/11/2024,Fitri,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+30/11/2024,Reno,Indomie Rasa Soto Lamongan,mie-kuah,makanan,3,10000,30000
+30/11/2024,Dika,Indomie Ayam Bawang,mie-kuah,makanan,1,9000,9000
+30/11/2024,Irma,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,3,10000,30000
+30/11/2024,Gilang,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+30/11/2024,Bima,Indomie Rasa Soto Betawi,mie-kuah,makanan,2,10000,20000
+30/11/2024,Niko,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+30/11/2024,Laras,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+30/11/2024,Nia,Indomie Goreng Pedas,mie-goreng,makanan,2,9000,18000
+30/11/2024,Tomi,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+30/11/2024,Jeni,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+30/11/2024,Ayu,Indomie Kari Ayam,mie-kuah,makanan,1,9000,9000
+30/11/2024,Amir,Indomie Rasa Soto Padang,mie-kuah,makanan,2,10000,20000
+30/11/2024,Rita,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+30/11/2024,Satria,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+30/11/2024,Ani,Indomie Ayam Bawang,mie-kuah,makanan,2,9000,18000
+31/11/2024,Beny,Indomie Goreng Aceh,mie-goreng,makanan,3,9000,27000
+31/11/2024,Darwin,Indomie Rasa Empal Gentong,mie-kuah,makanan,3,10000,30000
+31/11/2024,Bayu,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+31/11/2024,Aldi,Indomie Goreng Sambal Matah,mie-goreng,makanan,1,9000,9000
+31/11/2024,Roy,Indomie Kari Ayam,mie-kuah,makanan,2,9000,18000
+31/11/2024,Lutfi,Indomie Goreng Spesial,mie-goreng,makanan,3,9000,27000
+31/11/2024,Maya,Indomie Rasa Sop Buntut,mie-kuah,makanan,2,10000,20000
+31/11/2024,Andin,Indomie Rasa Soto Betawi,mie-kuah,makanan,3,10000,30000
+31/11/2024,Fahri,Indomie Goreng Cabe Ijo,mie-goreng,makanan,2,9000,18000
+31/11/2024,Gina,Indomie Rasa Mi Kocok Bandung,mie-kuah,makanan,2,10000,20000
+31/11/2024,Asep,Indomie Goreng Aceh,mie-goreng,makanan,1,9000,9000
+31/11/2024,Karina,Indomie Goreng Pedas,mie-goreng,makanan,3,9000,27000
+31/11/2024,Novi,Indomie Rasa Empal Gentong,mie-kuah,makanan,2,10000,20000
+31/11/2024,Lian,Indomie Rasa Soto Padang,mie-kuah,makanan,1,10000,10000
+31/11/2024,Hendra,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
+31/11/2024,Aida,Indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+31/11/2024,Dita,Indomie Rasa Soto Lamongan,mie-kuah,makanan,1,10000,10000
+31/11/2024,Raihan,Indomie Goreng Sambal Matah,mie-goreng,makanan,2,9000,18000
+31/11/2024,Seno,Indomie Rasa Sop Buntut,mie-kuah,makanan,3,10000,30000
+31/11/2024,Dedi,Indomie Goreng Cabe Ijo,mie-goreng,makanan,1,9000,9000
+31/11/2024,Luki,Indomie Rasa Soto Banjar Limau Kuit,mie-kuah,makanan,2,10000,20000
+31/11/2024,Windi,Indomie Goreng Aceh,mie-goreng,makanan,2,9000,18000
+31/11/2024,Tina,Indomie Rasa Soto Betawi,mie-kuah,makanan,1,10000,10000
+31/11/2024,Bima,Indomie Kari Ayam,mie-kuah,makanan,3,9000,27000
+31/11/2024,Reza,Indomie Goreng Spesial,mie-goreng,makanan,2,9000,18000
